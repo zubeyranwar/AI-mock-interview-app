@@ -1,6 +1,6 @@
-![AI Mocker Interview App]
+## AI Mocker Interview App
 
-## Getting Started
+![AI Mocker Interview App using Next js](https://ibb.co/6BHy6dz)
 
 First, run the development server:
 
