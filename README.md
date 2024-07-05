@@ -1,6 +1,8 @@
 ## AI Mocker Interview App
 
-![AI Mocker Interview App using Next js](https://github.com/zubeyranwar/AI-mock-interview-app/blob/main/public/demo.png?raw=true)
+![AI Mocker Interview App Landing Page](https://github.com/zubeyranwar/AI-mock-interview-app/blob/main/public/demo.png?raw=true)
+![AI Mocker Interview App Demo](https://github.com/zubeyranwar/AI-mock-interview-app/blob/main/public/demo2.png?raw=true)
+![Database screenshot](https://github.com/zubeyranwar/AI-mock-interview-app/blob/main/public/demo3.png?raw=true)
 
 First, run the development server:
 
