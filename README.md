@@ -1,6 +1,6 @@
 ## AI Mocker Interview App
 
-![AI Mocker Interview App using Next js](https://ibb.co/6BHy6dz)
+![AI Mocker Interview App using Next js](https://github.com/zubeyranwar/AI-mock-interview-app/blob/main/public/demo.png?raw=true)
 
 First, run the development server:
 
